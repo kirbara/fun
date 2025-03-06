@@ -1,1 +1,1 @@
-Fun project
+Fun project, experimenting with web
